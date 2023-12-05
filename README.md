@@ -2,19 +2,18 @@
 
 ## Description
 
-This project was to display the several works created by me to showcases my skills. Although these images and links are place-holders, it provides a place for my projects to be presented to potential employers.
+This project is to allow the user to store their workday calendar locally. They should be able to refresh the page and still have their day stored on the calendar. The times should also correspond with the current time, gray being in the past, red being current, and green meaning future. This showcases the power of javascript ith local storage and the use of day.js and its amazing uses.
 
 ## Installation
 
-This project was completed from scratch in VS Code. While using references, I implemented new skills such as gradients and linked images, while using basic tecniques such as anchored links and classic casscading techqniques. 
+This project was completed using starter code from gitHub by username crispy-octo-meme. It was then improved by adding javascript. The only adjustment to code was an addition of times and the adjustment of spacing.
 
 ## Usage
 
-By starting with a basic skeleton, you then add in you html for whatever structure you would prefer. You then create a style.css sheet and get creative! This project is for you, so it gets to be subjective.
+By starting with a basic skeleton, you then add in you javascript for the function of the calendar. 
 
-![Top of the page](<Website SC.png>)
-![Middle of the page](<Website SC 2.png>)
-![Bottom of the page](<Website SC 3.png>)
+![Top of the page](images/Top_C_SC.png)
+![Bottom of the page](images/Bottom_C_SC.png)
 
 ## Credits
 
@@ -30,7 +29,9 @@ These links were also used to brush up on basics:
 
 https://www.delftstack.com/howto/jquery/get-the-current-date-and-time-using-jquery/#google_vignette
 
-https://blog.hubspot.com/marketing/jump-link-same-page
+https://stackoverflow.com/questions/6787383/how-to-add-remove-a-class-in-javascript
+
+https://mirzaleka.medium.com/the-complete-guide-to-day-js-fb835a5d945a
 
 ## License
 
