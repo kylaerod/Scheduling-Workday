@@ -10,7 +10,7 @@ This project was completed using starter code from gitHub by username crispy-oct
 
 ## Usage
 
-By starting with a basic skeleton, you then add in you javascript for the function of the calendar. 
+By starting with a basic skeleton, you then add in javascript for the function of the calendar. 
 
 ![Top of the page](images/Top_C_SC.png)
 ![Bottom of the page](images/Bottom_C_SC.png)
